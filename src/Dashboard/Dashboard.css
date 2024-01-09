@@ -1,0 +1,76 @@
+.form-container {
+    width: 100%;
+    margin: 25px;
+    color: black;
+    display: flex;
+    flex-direction: row;
+    font-weight: 600;
+    font-size: 20px;
+    box-sizing: border-box;
+    
+    margin-top: 0px;
+  }
+  .form {
+    border: 1px solid #ebe9eb;
+    margin-top: 0px;
+    margin-bottom: 50px;
+    border-radius: 10px;
+    width: 60vh;
+    height: 6vh;
+    margin-left: 25px;
+    display: flex;
+    background: #ebe9eb;
+  }
+  button{
+    background: rgb(20, 9, 80);
+  height: 6vh;
+  padding: 10px;
+  margin-top: 0px;
+ margin-bottom: 10vh;
+  margin: 20px;   
+    width: 10%;
+    border-radius: 5px;
+    color: #fff;
+ 
+   }
+   .box1{
+    font-family: 'Poppins', sans-serif;
+     height: 150px;
+     display: flex;
+     border-left: 7px solid orange;
+     flex-direction: row;
+     border-radius:'4px'
+   }
+   .box2{
+    font-family: 'Poppins', sans-serif;
+     height: 150px;
+     display: flex;
+    border-radius: '4px';
+     border-left: 7px solid rgb(20, 9, 80) ;
+     flex-direction: row;
+   }
+   .box1 h5{
+    font-family: 'Poppins', sans-serif;
+   }
+  
+  
+  input {
+    font-size: 14px;
+    font-weight: 500;
+    font-family: "Poppins" sans-serif;
+    border-radius: 10px;
+    width: 90%;
+    background: #ebe9eb;
+    border: none;
+  }
+  input:focus {
+    outline: none;
+  }
+  .icon {
+    padding: 10px;
+    margin: 2px;
+    margin-top: 10px;
+  }
+  h2{
+    font-family: "Poppins" sans-serif;
+  }
